@@ -1,0 +1,54 @@
+{
+    "name": "hdvinnie/laravel-joypixels-emojis",
+    "type": "library",
+    "description": "Laravel helper for Joypixels emojis",
+    "keywords": [
+        "laravel",
+        "emoji",
+        "emojione",
+        "joypixels",
+        "HDVinnie"
+    ],
+    "homepage": "https://github.com/HDVinnie/laravel-joypixels-emojis",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "HDVinnie",
+            "email": "hdinnovations@protonmail.com",
+            "homepage": "https://github.com/HDVinnie",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.4|^8.0",
+        "joypixels/emoji-toolkit": "^6",
+        "illuminate/support": "^6|^7|^8|^9"
+    },
+    "suggest": {
+        "joypixels/assets": "If you want to serve the emojione assets yourself"
+    },
+    "autoload": {
+        "psr-4": {
+            "hdvinnie\\LaravelJoyPixels\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "hdvinnie\\LaravelJoyPixels\\": "tests"
+        }
+    },
+    "scripts": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "hdvinnie\\LaravelJoyPixels\\LaravelJoyPixelsServiceProvider"
+            ],
+            "aliases": {
+                "LaravelJoyPixels": "hdvinnie\\LaravelJoyPixels\\LaravelJoyPixelsFacade"
+            }
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
