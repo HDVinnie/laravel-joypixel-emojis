@@ -1,5 +1,5 @@
 {
-    "name": "hdvinnie/laravel-joypixels-emojis",
+    "name": "hdvinnie/laravel-joypixel-emojis",
     "type": "library",
     "description": "Laravel helper for Joypixels emojis",
     "keywords": [
@@ -9,7 +9,7 @@
         "joypixels",
         "HDVinnie"
     ],
-    "homepage": "https://github.com/HDVinnie/laravel-joypixels-emojis",
+    "homepage": "https://github.com/HDVinnie/laravel-joypixel-emojis",
     "license": "MIT",
     "authors": [
         {
