@@ -13,7 +13,7 @@ Laravel package to make it easier working with the modern emojis from [Joypixels
 Via Composer
 
 ```bash
-$ composer require "hdvinnnie/laravel-joypixels-emojis"
+$ composer require "hdvinnie/laravel-joypixels-emojis"
 ```
 ```bash
 $ composer update
