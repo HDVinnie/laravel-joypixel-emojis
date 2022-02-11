@@ -2,8 +2,8 @@
 
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
 [![Software License][ico-license]](LICENSE)
-
-<img alt="😀" width="50" src="https://cdn.jsdelivr.net/emojione/assets/4.0/png/128/1f600.png"> <img alt="🏋🏼" width="50" src="https://cdn.jsdelivr.net/emojione/assets/4.0/png/128/1f3cb-1f3fc.png"> <img alt="❤️" width="50" src="https://cdn.jsdelivr.net/emojione/assets/4.0/png/128/2764.png"> <img alt="☮" width="50" src="https://cdn.jsdelivr.net/emojione/assets/4.0/png/128/262e.png">
+[![Packagist](https://img.shields.io/packagist/v/hdvinnie/laravel-joypixel-emojis)](https://packagist.org/packages/hdvinnie/laravel-joypixel-emojis/)
+[![Packagist Downloads](https://img.shields.io/packagist/dm/hdvinnie/laravel-joypixel-emojis.svg?label=packagist%20downloads)](https://packagist.org/packages/hdvinnie/laravel-joypixel-emojis)
 
 
 Laravel package to make it easier working with the modern emojis from [Joypixels](https://joypixels.com/).
